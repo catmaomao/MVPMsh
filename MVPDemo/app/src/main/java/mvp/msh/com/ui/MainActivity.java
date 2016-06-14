@@ -1,7 +1,9 @@
-package mvp.msh.com;
+package mvp.msh.com.ui;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import mvp.msh.com.R;
 
 public class MainActivity extends AppCompatActivity {
 
