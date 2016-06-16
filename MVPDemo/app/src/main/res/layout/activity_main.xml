@@ -3,15 +3,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:clipChildren="false"
-    android:overScrollMode="never"
-    android:layerType="hardware"
     android:background="#000000"
+    android:clipChildren="false"
+    android:layerType="hardware"
+    android:overScrollMode="ifContentScrolls"
     tools:context=".ui.activity.MainActivity">
 
     <android.support.v4.view.ViewPager
         android:id="@+id/viewpager"
-        android:clipChildren="false"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:overScrollMode="never"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:visibility="visible" />
+
 </RelativeLayout>

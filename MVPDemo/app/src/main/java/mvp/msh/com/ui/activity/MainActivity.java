@@ -27,7 +27,8 @@ public class MainActivity extends BaseActivity implements IMainView {
     @Override
     public void bindView(Bundle savedInstanceState) {
         viewpager.setOffscreenPageLimit(4);
-        viewpager.setPageMargin(-130);
+        viewpager.setPageMargin(30);
+//        viewpager.setPageTransformer(true,new ZoomOutPageTransformer());
         MainAdapter mainAdapter = new MainAdapter();
         viewpager.setAdapter(mainAdapter);
     }
