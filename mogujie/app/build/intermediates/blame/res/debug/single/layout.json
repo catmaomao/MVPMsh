@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/layout/cart_popup_layout.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/layout/cart_popup_layout.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/layout/detail_frame_layout.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/layout/detail_frame_layout.xml"
+    }
+]

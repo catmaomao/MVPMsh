@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蘑菇街购物车动画效果</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="detail_bottom_im_btn">联系卖家</string>
+    <string name="detail_bottom_cart_btn">加入购物车</string>
+    <string name="detail_bottom_buy_btn">立即购买</string>
+    <string name="note_totaobao_btn">去淘宝</string>
+    <string name="goods_detail">商品详情</string>
+    <string name="shopping_cart_added">商品已成功添加到购物车！</string>
+    <string name="shopping_cart_checkout">去结算</string>
+<string name="shopping_cart_continue">继续购物</string>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/color/positive_text_color.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/color/positive_text_color.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/color/taobao_text_color.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/color/taobao_text_color.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/color/dialog_negative_text_color.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/color/dialog_negative_text_color.xml"
+    }
+]

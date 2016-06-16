@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/index_bottom_bar.9.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/index_bottom_bar.9.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/detail_tao_btn_bg_s.9.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/detail_tao_btn_bg_s.9.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/dialog_positive_btn_bg_normal.9.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/dialog_positive_btn_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/detail_tobuy_btn_s.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/detail_tobuy_btn_s.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/dialog_positive_btn_bg_pressed.9.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/dialog_positive_btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/detail_tao_btn_arrow.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/detail_tao_btn_arrow.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/detail_tao_btn_bg.9.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/detail_tao_btn_bg.9.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/detail_backbtn.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/detail_backbtn.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/detail_cart_icon.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/detail_cart_icon.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/detail_tao_btn_arrow_s.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/detail_tao_btn_arrow_s.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/detail_shopping_cart.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/detail_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cart_popup_bg.9.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/cart_popup_bg.9.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/detail_im_icon.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/detail_im_icon.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/dialog_navigative_btn_bg_normal.9.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/dialog_navigative_btn_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cart_anim_icon.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/cart_anim_icon.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/detail_tobuy_btn.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/detail_tobuy_btn.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/dialog_navigative_btn_bg_pressed.9.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/dialog_navigative_btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/goods_detail_home_btn.png",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable-xxhdpi/goods_detail_home_btn.png"
+    }
+]

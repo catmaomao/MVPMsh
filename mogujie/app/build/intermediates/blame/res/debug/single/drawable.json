@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable/dialog_negative_btn_bg.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable/dialog_negative_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable/detail_tobuy_btn_bg.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable/detail_tobuy_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable/detail_taobao_btn_arrow_bg.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable/detail_taobao_btn_arrow_bg.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable/detail_totaobao_btn_bg.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable/detail_totaobao_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/drawable/dialog_positive_btn_bg.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/drawable/dialog_positive_btn_bg.xml"
+    }
+]

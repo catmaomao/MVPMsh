@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/anim/anim_window_out.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/anim/anim_window_out.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/anim/anim_window_in.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/anim/anim_window_in.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/anim/mg_decelerate_cubic.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/anim/mg_decelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/anim/anim_window_close_in.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/anim/anim_window_close_in.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/anim/cart_anim.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/anim/cart_anim.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/anim/anim_window_close_out.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/anim/anim_window_close_out.xml"
+    },
+    {
+        "merged": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/mashaohu/test/mvp/MVPMsh/mogujie/app/src/main/res/anim/fade_out.xml"
+    }
+]

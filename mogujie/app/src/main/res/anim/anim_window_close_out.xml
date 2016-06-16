@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:interpolator="@anim/mg_decelerate_cubic" android:zAdjustment="normal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate android:duration="@integer/left_out_anima_duration" android:fillBefore="true" android:fillAfter="true" android:fromXDelta="0.0%p" android:toXDelta="100.0%p" android:fillEnabled="true" />
+</set>

@@ -1,6 +1,7 @@
 package mvp.msh.com.presenter;
 
 
+import android.content.Context;
 import android.os.Handler;
 
 import mvp.msh.com.bean.UserBean;
@@ -23,9 +24,9 @@ public class LoginPresenter extends BasePresenter {
         userModel = new UserModel();
     }
 
-    public void login() {
+    public void login(Context context) {
 
-        userModel.login(loginView.getUserName(), loginView.getPassword(), new ICallBackListener() {
+        userModel.login(context,loginView.getUserName(), loginView.getPassword(), new ICallBackListener() {
 
             @Override
             public void callSuccess(UserBean userBean) {

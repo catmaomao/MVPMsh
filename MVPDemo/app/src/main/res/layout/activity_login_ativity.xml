@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context="mvp.msh.com.ui.LoginAtivity">
+    tools:context=".ui.activity.LoginAtivity">
 
     <EditText
         android:id="@+id/et_username"
